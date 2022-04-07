@@ -7,6 +7,8 @@ Below is the relationships shown in the analysis.
 ![image](https://user-images.githubusercontent.com/67893672/162289220-4ef5ac46-a05e-4d66-9695-10381279f640.png)
 
 The results are shown below.
-![image](https://user-images.githubusercontent.com/67893672/162289426-7955e222-cb02-48aa-822d-8f4d2b9f3b82.png)
+![image](https://user-images.githubusercontent.com/67893672/162289534-01ff7315-6ed3-408c-b976-597039c82be1.png)
+![image](https://user-images.githubusercontent.com/67893672/162289567-b76124f1-ab98-4e51-84e9-26af4ab2bfc4.png)
+
 
 
